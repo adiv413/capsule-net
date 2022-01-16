@@ -1,2 +1,2 @@
 # capsule-net
-Improved version of Capsule Networks as described in "Dynamic Routing Between Capsules" [Hinton et. al.]
+Improving Capsule Networks’ Ability to Generalize to Large Rotational Transformations Using Spatially Transformed Capsule Networks
